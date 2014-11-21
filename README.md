@@ -1,5 +1,3 @@
-<span style='font-size:12.0pt;line-height:115%'>Description<o:p></o:p></span></b>
-
 <p class=MsoNormal><span style='font-size:12.0pt;line-height:115%'>The
 following is the instructional guide to adding a new set of landing pages into
 CMS and versioning them on to the marketing servers. The pages include city and
